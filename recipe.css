@@ -1,22 +1,128 @@
-body{
-    background-color: #FFCC00;
-    
+body {
+  background-color: #ffcc00;
 }
-h1{
-    background-color: #F0F0F0;
-    font-family: 'Garamond',Georgia, Times, serif;
-    text-align: center;
-    color: #A4A400;
-    /* font-weight: 900; */
-    font-weight: 900;
+h1 {
+  background-color: #f0f0f0;
+  font-family: "Garamond", Georgia, Times, serif;
+  text-align: center;
+  color: #a4a400;
+  /* font-weight: 900; */
+  font-weight: 900;
 }
-h2{
-    background-color: #F0F0F0;
-    font-family: 'Garamond',Georgia, Times, serif;
-    text-align: center;
-    color: #A4A400;
-    font-weight: 900;
+h2 {
+  background-color: #f0f0f0;
+  font-family: "Garamond", Georgia, Times, serif;
+  text-align: center;
+  color: #a4a400;
+  font-weight: 900;
 }
-table{
-    border: #A4A400;
+table {
+  border: #a4a400;
 }
+
+/* <------Top of table--------> */
+table {
+  font-family: "Garamond", Georgia, Times, serif;
+  border-collapse: collapse;
+  width: auto;
+  height: auto;
+}
+
+td,th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 5px;
+  text-align: center;
+  border: 2px solid white;
+  padding: 5px 5px 5px 5px;
+}
+
+.Nutrient {
+  background-color: #003366;
+  color: white;
+  width: 11%;
+}
+.Amount {
+  background-color: #cc9933;
+  color: white;
+  width: 11%;
+  text-align: left;
+}
+#amount {
+  background-color: #003366;
+  color: white;
+  width: 11%;
+  text-align: center;
+}
+.DV {
+  background-color: #cc9933;
+  color: white;
+  width: 11%;
+  text-align: left;
+}
+#dv {
+  background-color: #003366;
+  color: white;
+  width: 11%;
+  text-align: center;
+}
+.NutrientDensity {
+  background-color: #cc9933;
+  color: white;
+  width: 11%;
+  text-align: left;
+}
+#nd {
+  background-color: #003366;
+  color: white;
+  width: 11%;
+  text-align: center;
+}
+.WHFR {
+  background-color: #cc9933;
+  color: white;
+  width: 11%;
+}
+#whfr {
+  background-color: #003366;
+  color: white;
+  width: 11%;
+}
+.tablehead {
+  text-align: center;
+  width: 100%;
+  background: white;
+}
+caption {
+  background-color: #f0f0f0;
+  color: #a4a400;
+  font-weight: bold;
+}
+
+.st {
+  background-color: #cc9933;
+  color: white;
+}
+.sth {
+  color: white;
+}
+/* <------Top of table--------> */
+
+/* <---------top navbar---------> */
+#nav li {
+  display: inline-block;
+  background-color: #f0f0f0;
+  color: #003366;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+#menu {
+  border-right: 10px solid blue;
+  padding-left: 25px;
+}
+
+#menu a {
+  text-decoration: none;
+}
+/* <---------Bottom navbar---------> */

@@ -1,0 +1,22 @@
+body{
+    background-color: #FFCC00;
+    
+}
+h1{
+    background-color: #F0F0F0;
+    font-family: 'Garamond',Georgia, Times, serif;
+    text-align: center;
+    color: #A4A400;
+    /* font-weight: 900; */
+    font-weight: 900;
+}
+h2{
+    background-color: #F0F0F0;
+    font-family: 'Garamond',Georgia, Times, serif;
+    text-align: center;
+    color: #A4A400;
+    font-weight: 900;
+}
+table{
+    border: #A4A400;
+}

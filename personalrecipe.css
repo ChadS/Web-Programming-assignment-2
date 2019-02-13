@@ -1,0 +1,31 @@
+body{
+    background: url(/images/cupcake-wallpapers-28241-6878938.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* table{
+    border: 2px solid red;
+} */
+td{
+    /* border: 2px blue solid; */
+}
+th{
+    /* border: 2px green solid; */
+}
+/* #t1{
+    text-align: center;
+} */
+/* table{
+    margin-left: auto;
+    margin-right: auto;
+} */
+img{
+    width: 500px;
+    height: 500px;
+
+}

@@ -117,12 +117,12 @@ caption {
   padding-right: 10px;
   text-decoration: none;
 }
-#menu {
+.menu {
   border-right: 10px solid blue;
   padding-left: 25px;
 }
 
-#menu a {
+.menu a {
   text-decoration: none;
 }
 /* <---------Bottom navbar---------> */

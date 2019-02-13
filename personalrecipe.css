@@ -1,5 +1,5 @@
 body{
-    background: url(/images/cupcake-wallpapers-28241-6878938.jpg);
+    background: url(/images/brightbg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,9 +13,7 @@ h1{
 } */
 td{
     /* border: 2px blue solid; */
-}
-th{
-    /* border: 2px green solid; */
+    padding-right: 20px;
 }
 /* #t1{
     text-align: center;
@@ -27,5 +25,6 @@ th{
 img{
     width: 500px;
     height: 500px;
+    object-position: center;
 
 }

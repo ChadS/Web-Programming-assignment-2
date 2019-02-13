@@ -1,0 +1,26 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: white;
+  text-align: center;
+}
+body {
+  background: url(/images/qFnzHkS.jpg);
+}
+#nav li {
+  display: inline-block;
+  background-color: #f0f0f0;
+  color: #003366;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+.menu {
+  border-right: 10px solid blue;
+  padding-left: 25px;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+

@@ -1,3 +1,4 @@
+# Web-Programming-assignment-2
 <b>Learning Objectives</b>
 <ul>
   <li>Demonstrate the ability to author valid XHTML 1.0 Strict Web pages</li>
@@ -190,6 +191,7 @@
     your own creative design. A basic design is displayed below
   </u>
 </h2>
+<<<<<<< HEAD
 
 <h2>Extra Features:</h2>
 <p>
@@ -258,3 +260,5 @@
   comment header in each file containing your account, file, and honor code.
   Include metadata on both HTML pages.
 </p>
+=======
+>>>>>>> e8c4018d281fb49ea0f288e646481faedfb93cea

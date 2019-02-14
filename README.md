@@ -1,5 +1,6 @@
 # Web-Programming-assignment-2
 <b>Learning Objectives</b>
+
 <ul>
   <li>Demonstrate the ability to author valid XHTML 1.0 Strict Web pages</li>
   <li>
@@ -191,74 +192,3 @@
     your own creative design. A basic design is displayed below
   </u>
 </h2>
-<<<<<<< HEAD
-
-<h2>Extra Features:</h2>
-<p>
-  In addition to the previous required features, you must also complete at least
-  two of the following additional requirements in your recipe page. These are
-  features that have been covered in lecture; the idea is that you will have to
-  learn how to complete these features on your own. As much as possible, you
-  should implement these changes by modifying your CSS code rather than your
-  HTML.
-</p>
-<p>
-  Here are examples of extra features: In your HTML header comment, add another
-  comment saying which extra features you have completed. If you want to
-  complete more than two of the extra features below, that is fine, but only two
-  are required.
-</p>
-<ol>
-  <li>
-    <b>Image float:</b>Use CSS to make one or both images float with the
-    corresponding text displayed directly to the right or left of the image
-  </li>
-  <li>
-    <b>background:</b> Use CSS to use a background image for both pages. The
-    Background image should repeat in both directions across the page and should
-    not move when the page is scrolled.
-  </li>
-  <li>
-    <b>Bullets:</b>Use CSS to set the bulleted lists of items on the page to use
-    an appropriate image for their bullet icon rather than the normal black
-    circle.
-  </li>
-  <li>
-    <b>Widen headings letter spacing:</b>Use CSS to noticeably widen the letter
-    spacing on all headings on the page.
-  </li>
-  <li>
-    <b>Other:</b>Do you have an extra feature you'd like to add to your page
-    that isn't listed here? Check with your instructor and I'll let you know if
-    it is okay to substitute for one of the above.
-  </li>
-</ol>
-<h2></h2>
-<p>
-  Note: Program assignments are individual assignments and should represent your
-  own work. You should not use pair programming on the program assignments. If
-  you received help with this assignment, acknowledge this help (who helped and
-  the nature of the help) in your file's header comment.
-</p>
-<p>
-  Implement both HTML web pages using XHTML 1.0 Transitional DTD as taught in
-  class. For full credit, your pages must successfully pass the W3C XHTML 1.0
-  validator (SGML parser) with no errors or warnings. You should choose
-  appropriate HTML tags to match the structure of the content being displayed on
-  the page. Do not express stylistic information in the HTML page itself, such
-  as inline styles or presentational HTML tags such as b or font.
-</p>
-<p>
-  Express all stylistic information on the page using CSS defined in
-  program1.css. For full credit, your style sheet must successfully pass the W3C
-  CSS validator with no errors or warnings. You only need to worry about the
-  appearance of your page in Firefox and chrome. Your pages will not be tested
-  using Microsoft Internet Explorer or other browsers.
-</p>
-<p>
-  Format your HTML and CSS nicely so that it is as readable as possible. Place a
-  comment header in each file containing your account, file, and honor code.
-  Include metadata on both HTML pages.
-</p>
-=======
->>>>>>> e8c4018d281fb49ea0f288e646481faedfb93cea
